@@ -1,0 +1,37 @@
+#navig ul li{
+list-style:none;
+display:inline;
+}
+
+#navig ul li a{
+text-decoration:none;
+padding: 2em;
+}
+
+#navig ul li a:hover{
+background-color: black;
+color: red;
+}
+
+#navig
+{
+	background-color: yellow;
+	line-height: 5em;
+	line-width: 10em;
+}
+
+aside{
+border: 1em solid black;
+float: left;
+width: 30%;
+}
+
+article{
+border: 1em solid black;
+width:30%;
+float:right;
+}
+
+.clearf{
+clear: both;
+}
