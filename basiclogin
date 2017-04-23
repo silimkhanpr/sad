@@ -1,0 +1,30 @@
+<!DOCTYPE html>  
+<html lang = "en">
+
+<head>
+<title>Workshop Homepage</title>
+<link rel="stylesheet" type="text/css" href="CSS/everything1.css" />
+</head>
+
+<body>
+
+<nav id="navig">
+<ul>
+<li><a href="#">Home</a></li>
+<li><a href="#">About</a></li>
+<li><a href="#">Contact</a></li>
+</ul>
+
+<aside><ul>
+<li><a href="Assets/studentlogin.html" accesskey="o" title="Student Login">Student Login</a></li>
+<li><a href="Assets/teacherlogin.html" accesskey="o" title="Teacher Login">Teacher Login</a></li>
+<li><a href="Assets/newaccount.html" accesskey="o" title="New Account">Create New Account</a></li>
+</ul>
+</aside>
+</nav>
+
+<div class="clearf" />
+
+</body>
+
+</html>
